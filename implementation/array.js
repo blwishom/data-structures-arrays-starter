@@ -5,7 +5,11 @@ class MyArray {
     }
     //O(1) unless we've filled the array, then O(n) operation to add to the back of the array
     push(val) {
-      
+      // Set index[length] to the element
+
+      // Increment length property
+
+      // Return new array
 
     }
     //O(1) operation to remove a value from the back of the array
@@ -24,7 +28,7 @@ class MyArray {
 
     }
     //O(n) operation to find the index of a value, returns -1 
-    search(val) {
+    indexOf(val) {
 
 
     }
