@@ -1,47 +1,41 @@
 const findMinimum = arr => {
 
+  // Your code here
+
 };
 
 const runningSum = arr => {
 
+  // Your code here
 };
 
 const evenNumOfChars = arr => {
 
+  // Your code here
 };
 
 const smallerThanCurr = arr => {
+
+  // Your code here
 
 };
 
 const twoSum = (arr, target) => {
 
+  // Your code here
 };
 
 const secondLargest = arr => {
 
+  // Your code here
+
+  return secondLargest;
 };
 
-const maxSumOfSubarrayOfLength = (arr, k) => {
+const shuffle = (arr) => {
 
+  // Your code here
 };
 
-const smallestSubarrayOfSum = (arr, s) => {
 
-};
-
-const shuffle = (arr, n) => {
-
-};
-
-const largestDistribution = (arr, n) => {
-
-};
-
-const validParentheses = str => {
-
-};
-
-const rpnCalculator = inputs => {
-
-};
+module.exports = [findMinimum, runningSum, evenNumOfChars, smallerThanCurr, twoSum, secondLargest, shuffle];
